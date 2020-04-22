@@ -68,7 +68,7 @@
 						<input type="text" name="country" placeholder="Province" required>
 						<input type="text" name="zipcode" placeholder="ZIP Code" required maxlength="4">
 						<input type="text" name="mobile" placeholder="Mobile Number" maxlength="11">
-						<input type="text" name="telephone" placeholder="Telephone Number" maxlength="8">
+					
 						<input type="email" name="email" placeholder="Email" required>
 						<input type="password" name="password" placeholder="Password" required>
 						</center>
@@ -90,6 +90,7 @@
 				<li><a href="contactus.php"><i class="icon-inbox"></i>Contact Us</a></li>
 				<li><a href="privacy.php"><i class="icon-info-sign"></i>Privacy Policy</a></li>
 				<li><a href="faqs.php"><i class="icon-question-sign"></i>FAQs</a></li>
+				 <li><a href="upload.php"><i class="icon-quastion-sign"></i>Upload</a></li>
 			</ul>
 	</div>
 	
