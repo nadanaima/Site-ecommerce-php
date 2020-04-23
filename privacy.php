@@ -89,7 +89,7 @@
 				<li><a href="aboutus.php">   <i class="icon-bookmark"></i>About Us</a></li>
 				<li><a href="contactus.php"><i class="icon-inbox"></i>Contact Us</a></li>
 				<li><a href="privacy.php"><i class="icon-info-sign"></i>Privacy Policy</a></li>
-				<li><a href="faqs.php"><i class="icon-question-sign"></i>FAQs</a></li>
+				
 				  <li><a href="upload.php"><i class="icon-quastion-sign"></i>Upload</a></li>
 			</ul>
 	</div>
