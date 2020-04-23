@@ -101,7 +101,7 @@
 				<li><a href="contactus1.php"><i class="icon-inbox"></i>Contact Us</a></li>
 				<li><a href="privacy1.php"><i class="icon-info-sign"></i>Privacy Policy</a></li>
 				<li><a href="faqs1.php"><i class="icon-question-sign"></i>FAQs</a></li>
-				  <li><a href="upload.php"><i class="icon-quastion-sign"></i>Upload</a></li>
+				 <li><a href="upload1.php"><i class="icon-inbox"></i>Upload</a></li>
 			</ul>
 	</div>
 	
