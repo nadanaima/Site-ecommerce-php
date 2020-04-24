@@ -105,10 +105,10 @@
     </br>
     </br>
     <div id="content">
-<form action="uploadss.php" method="POST" enctype="multipart/form-data">
-<input type="file" name="file">
-<button type="submit" name="submit">UPLOAD</button>
-</FORM>
+<center><h3> ICI VOUS POUVEZ TELECHARGER NOTRE RAPPORT  : </h3></center>
+</br>
+<center><a href= https://allo-creative.com/wp-content/uploads/2020/04/UNIVERSITE-IBN-ZOHR.pdf><button type="submit" name="submit">UPLOAD</button></a></center>
+
 </div>
 </br>
 </br>
@@ -123,7 +123,7 @@
 </br>
 <div id="footer">
 		<div class="foot">
-			<label style="font-size:17px;"> Copyrght &copy; </label>
+			<label style="font-size:17px;"> Copyright &copy; </label>
 			<p style="font-size:25px;">Sport Inc. 2020</p>
 		</div>
 			
