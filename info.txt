@@ -2,4 +2,4 @@ NOM DU BINOMES :Gabari Nada et Rahmani Naima
 
 SITE de github: https://github.com/nadanaima/Site-ecommerce-php.git
 
-site statique : https://gabarifit.000webhostapp.com/
+site statique : https://gabariifit.000webhostapp.com/
